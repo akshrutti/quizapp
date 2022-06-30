@@ -1,0 +1,16 @@
+#root,
+.App {
+        height: 100vh;
+        overflow: hidden;
+}
+
+.brand {
+        font-size: 25px;
+        font-weight: bold;
+        text-decoration: none;
+        color: #000;
+}
+
+header {
+        background-color: gainsboro;
+}
